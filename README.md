@@ -1,5 +1,5 @@
- NOUVELLE VERSION: TE/3.4.1 - Nouveautées:
-    Un nouveau thème, correction d'un bug et déplacement de deux textes dans les paramètres.
+ NOUVELLE VERSION: TE/3.5.2 - Nouveautées:
+    2 Nouveau paramètres.
     
 # Téléchargez l'application pour plus d'informations sur les mises à jour!
  
