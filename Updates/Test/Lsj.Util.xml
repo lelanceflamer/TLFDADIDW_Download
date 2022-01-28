@@ -1,0 +1,4104 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Lsj.Util</name>
+    </assembly>
+    <members>
+        <member name="T:Lsj.Util.ASCIIChar">
+            <summary>
+            ASCII Char
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.LF">
+            <summary>
+            LF
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.CR">
+            <summary>
+            CR
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.SPACE">
+            <summary>
+            SPACE
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Point">
+            <summary>
+            .
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.BackSlash">
+            <summary>
+            /
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num0">
+            <summary>
+            0
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num1">
+            <summary>
+            1
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num2">
+            <summary>
+            2
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num3">
+            <summary>
+            3
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num4">
+            <summary>
+            4
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num5">
+            <summary>
+            5
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num6">
+            <summary>
+            6
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num7">
+            <summary>
+            7
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num8">
+            <summary>
+            8
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Num9">
+            <summary>
+            9
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Colon">
+            <summary>
+            :
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.A">
+            <summary>
+            A
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.B">
+            <summary>
+            B
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.C">
+            <summary>
+            C
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.D">
+            <summary>
+            D
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.E">
+            <summary>
+            E
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.F">
+            <summary>
+            F
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.G">
+            <summary>
+            G
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.H">
+            <summary>
+            H
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.I">
+            <summary>
+            I
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.J">
+            <summary>
+            J
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.K">
+            <summary>
+            K
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.L">
+            <summary>
+            L
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.M">
+            <summary>
+            M
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.N">
+            <summary>
+            N
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.O">
+            <summary>
+            O
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.P">
+            <summary>
+            P
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Q">
+            <summary>
+            Q
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.R">
+            <summary>
+            R
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.S">
+            <summary>
+            S
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.T">
+            <summary>
+            T
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.U">
+            <summary>
+            U
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.V">
+            <summary>
+            V
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.W">
+            <summary>
+            W
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.X">
+            <summary>
+            X
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Y">
+            <summary>
+            Y
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Z">
+            <summary>
+            Z
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.Slash">
+            <summary>
+            \
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.a">
+            <summary>
+            a
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.b">
+            <summary>
+            b
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.c">
+            <summary>
+            c
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.d">
+            <summary>
+            d
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.e">
+            <summary>
+            e
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.f">
+            <summary>
+            f
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.g">
+            <summary>
+            g
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.h">
+            <summary>
+            h
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.i">
+            <summary>
+            i
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.j">
+            <summary>
+            j
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.k">
+            <summary>
+            k
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.l">
+            <summary>
+            l
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.m">
+            <summary>
+            m
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.n">
+            <summary>
+            n
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.o">
+            <summary>
+            o
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.p">
+            <summary>
+            p
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.q">
+            <summary>
+            q
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.r">
+            <summary>
+            r
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.s">
+            <summary>
+            s
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.t">
+            <summary>
+            t
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.u">
+            <summary>
+            u
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.v">
+            <summary>
+            v
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.w">
+            <summary>
+            w
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.x">
+            <summary>
+            x
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.y">
+            <summary>
+            y
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.ASCIIChar.z">
+            <summary>
+            z
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.ASCIIChar.IsNumber(System.Byte)">
+            <summary>
+            IsNumber
+            </summary>
+            <param name="i"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.Binary.BaseBinaryFile">
+            <summary>
+            Binary File
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.BaseBinaryFile._file">
+            <summary>
+            File Stream
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Binary.BaseBinaryFile.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Binary.BaseBinaryFile"/> class.
+            </summary>
+            <param name="path">File Path</param>
+        </member>
+        <member name="M:Lsj.Util.Binary.BaseBinaryFile.Read">
+            <summary>
+            Read
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Binary.BaseBinaryFile.CleanUpManagedResources">
+            <summary>
+            Clean Up Managed Resources
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Binary.DosExeFile">
+            <summary>
+            Dos Executable File
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Binary.DosExeFile.DosHeader">
+            <summary>
+            Dos Header
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Binary.DosExeFile.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Binary.DosExeFile"/> class.
+            </summary>
+            <param name="path">File Path</param>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosExeFile._dosHeaderBytes">
+            <summary>
+            DosHeader Byte Array
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Binary.DosExeFile.Read">
+            <summary>
+            Read
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Binary.DosExeFile.GetRelocationTable">
+            <summary>
+            RelocationTable
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.Binary.DosHeader">
+            <summary>
+            DOS .EXE header
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_magic">
+            <summary>
+            Magic number (MZ)
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_cblp">
+            <summary>
+            Bytes on last page of file
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_cp">
+            <summary>
+            Pages in file
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_crlc">
+            <summary>
+            Relocations
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_cparhdr">
+            <summary>
+            Size of header in paragraphs
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_minalloc">
+            <summary>
+            Minimum extra paragraphs needed
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_maxalloc">
+            <summary>
+            Maximum extra paragraphs needed
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.ss">
+            <summary>
+            Initial (relative) SS value
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.sp">
+            <summary>
+            Initial SP value
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.csum">
+            <summary>
+            CheckSum
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.ip">
+            <summary>
+            Initial IP value
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.cs">
+            <summary>
+            Initial (relative) CS value
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.lfarlc">
+            <summary>
+            File address of relocation table
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.ovno">
+            <summary>
+            Overlay number
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_res">
+            <summary>
+            Reserved words
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_oemid">
+            <summary>
+            OEM identifier (for <see cref="F:Lsj.Util.Binary.DosHeader.e_oeminfo"/>)
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_oeminfo">
+            <summary>
+            OEM information; <see cref="F:Lsj.Util.Binary.DosHeader.e_oemid"/> specific
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_res2">
+            <summary>
+            Reserved words
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.DosHeader.e_lfanew">
+            <summary>
+            File address of new exe header (PE header)
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Binary.RelocationItem">
+            <summary>
+            RelocationItem
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.RelocationItem.Offset">
+            <summary>
+            Offset
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.RelocationItem.Segment">
+            <summary>
+            Segment
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Binary.PEFile">
+            <summary>
+            PEFile
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Binary.PEFile.NTHeader">
+            <summary>
+            NTHeader
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Binary.PEFile.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Binary.PEFile"/> class.
+            </summary>
+            <param name="path">File Path</param>
+        </member>
+        <member name="M:Lsj.Util.Binary.PEFile.Read">
+            <summary>
+            Read
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Binary.NTHeader">
+            <summary>
+            NTHeader
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.NTHeader.Signature">
+            <summary>
+            Signature
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.NTHeader.FileHeader">
+            <summary>
+            FileHeader
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Binary.ImageFileHeader">
+            <summary>
+            FileHeader
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.ImageFileHeader.Machine">
+            <summary>
+            Machine
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.ImageFileHeader.NumberOfSections">
+            <summary>
+            Number Of Sections
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.ImageFileHeader.TimeDateStamp">
+            <summary>
+            Time Date Stamp
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.ImageFileHeader.PointerToSymbolTable">
+            <summary>
+            Pointer To Symbol Table
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.ImageFileHeader.NumberOfSymbols">
+            <summary>
+            Number Of Symbols
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.ImageFileHeader.SizeOfOptionalHeader">
+            <summary>
+            Size Of Optional Header
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.ImageFileHeader.Characteristics">
+            <summary>
+            Characteristics
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Binary.Machine">
+            <summary>
+            Machine
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.UNKNOWN">
+            <summary>
+            Unknown
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.TARGET_HOST">
+            <summary>
+            Useful for indicating we want to interact with the host and not a WoW guest.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.I386">
+            <summary>
+            Intel 386.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.R3000">
+            <summary>
+            MIPS little-endian, 0x160 big-endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.R4000">
+            <summary>
+            MIPS little-endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.R10000">
+            <summary>
+            MIPS little-endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.WCEMIPSV2">
+            <summary>
+            MIPS little-endian WCE v2
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.ALPHA">
+            <summary>
+            Alpha_AXP
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.SH3">
+            <summary>
+            SH3 little-endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.SH3DSP">
+            <summary>
+            SH3DSP
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.SH3E">
+            <summary>
+            SH3E little-endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.SH4">
+            <summary>
+            SH4 little-endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.SH5">
+            <summary>
+            SH5
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.ARM">
+            <summary>
+            ARM Little-Endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.THUMB">
+            <summary>
+            ARM Thumb/Thumb-2 Little-Endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.ARMNT">
+            <summary>
+            ARM Thumb-2 Little-Endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.AM33">
+            <summary>
+            AM33
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.POWERPC">
+            <summary>
+            IBM PowerPC Little-Endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.POWERPCFP">
+            <summary>
+            IBM PowerPC Little-Endian with FPU
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.IA64">
+            <summary>
+            Intel 64
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.MIPS16">
+            <summary>
+            MIPS
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.ALPHA64">
+            <summary>
+            ALPHA64
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.MIPSFPU">
+            <summary>
+            MIPS with FPU
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.MIPSFPU16">
+            <summary>
+            MIPS16 with FPU
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.AXP64">
+            <summary>
+            AXP64
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.TRICORE">
+            <summary>
+            Infineon
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.CEF">
+            <summary>
+            CEF
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.EBC">
+            <summary>
+            EFI Byte Code
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.AMD64">
+            <summary>
+            AMD64 (K8)
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.M32R">
+            <summary>
+            M32R little-endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.ARM64">
+            <summary>
+            ARM64 Little-Endian
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Machine.CEE">
+            <summary>
+            CEE
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Binary.Characteristics">
+            <summary>
+            Characteristics
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.RELOCS_STRIPPED">
+            <summary>
+            Relocation info stripped from file.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.EXECUTABLE_IMAGE">
+            <summary>
+             File is executable  (i.e. no unresolved external references).
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.LINE_NUMS_STRIPPED">
+            <summary>
+             Line nunbers stripped from file.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.LOCAL_SYMS_STRIPPED">
+            <summary>
+            Local symbols stripped from file.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.AGGRESIVE_WS_TRIM">
+            <summary>
+            Aggressively trim working set
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.LARGE_ADDRESS_AWARE">
+            <summary>
+            App can handle >2gb addresses
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.BYTES_REVERSED_LO">
+            <summary>
+            Bytes of machine word are reversed.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.BIT32_MACHINE">
+            <summary>
+            32 bit word machine.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.DEBUG_STRIPPED">
+            <summary>
+            Debugging info stripped from file in .DBG file
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.REMOVABLE_RUN_FROM_SWAP">
+            <summary>
+            If Image is on removable media, copy and run from the swap file.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.NET_RUN_FROM_SWAP">
+            <summary>
+            If Image is on Net, copy and run from the swap file.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.SYSTEM">
+            <summary>
+            System File.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.DLL">
+            <summary>
+            File is a DLL.
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.UP_SYSTEM_ONLY">
+            <summary>
+            File should only be run on a UP machine
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Binary.Characteristics.BYTES_REVERSED_HI">
+            <summary>
+            Bytes of machine word are reversed.
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.ArrayHelper">
+            <summary>
+            Array Helper
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.ArrayHelper.ToThreeValueTuples``1(``0[][])">
+            <summary>
+            ConvertToThreeValueTuples
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="array"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.ArrayHelper.Transposition``1(``0[0:,0:])">
+            <summary>
+            Transposition
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="array"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.ArrayHelper.Transposition``1(System.Tuple{``0,System.Int32,System.Int32}[])">
+            <summary>
+            Transposition
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="tuples"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.Collections.BinaryTree`1">
+            <summary>
+            BinaryTree
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:Lsj.Util.Collections.BinaryTree`1.#ctor(`0)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.BinaryTree`1"/> class.
+            </summary>
+            <param name="val">value</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.BinaryTree`1.IsEmpty">
+            <summary>
+            Is Empty
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.BinaryTreeNode`1">
+            <summary>
+            BinaryTreeNode
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="F:Lsj.Util.Collections.BinaryTreeNode`1.val">
+            <summary>
+            Value
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Collections.BinaryTreeNode`1.parent">
+            <summary>
+            Parent
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Collections.BinaryTreeNode`1.left">
+            <summary>
+            Left Child
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Collections.BinaryTreeNode`1.right">
+            <summary>
+            Right Child
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.BinaryTreeNode`1.Parent">
+            <summary>
+            Parent
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.BinaryTreeNode`1.#ctor(`0)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.BinaryTreeNode`1"/> class.
+            </summary>
+            <param name="val"></param>
+        </member>
+        <member name="P:Lsj.Util.Collections.BinaryTreeNode`1.Left">
+            <summary>
+            Left Child
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.BinaryTreeNode`1.Right">
+            <summary>
+            Right Child
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.BinaryTreeNode`1.Height">
+            <summary>
+            Height
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.BinaryTreeNode`1.TraverseDLRWithRecursion">
+            <summary>
+            TraverseDLRWithRecursion
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.BinaryTreeNode`1.TraverseDLRWithoutRecursion">
+            <summary>
+            TraverseDLRWithoutRecursion
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.BinaryTreeNode`1.TraverseLDRWithRecursion">
+            <summary>
+            TraverseLDRWithRecursion
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.BinaryTreeNode`1.TraverseLDRWithoutRecursion">
+            <summary>
+            TraverseLDRWithoutRecursion
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.BinaryTreeNode`1.TraverseLRDWithRecursion">
+            <summary>
+            TraverseLRDWithRecursion
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.Collections.DoubleLinkList`1">
+            <summary>
+            DoubleLinkList
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.DoubleLinkList`1.DoubleLinkListEnumerator">
+            <summary>
+            DoubleLinkList Enumerator
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.DoubleLinkListEnumerator.Dispose">
+            <summary>
+            Dispose
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.DoubleLinkListEnumerator.MoveNext">
+            <summary>
+            Move To Next
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.DoubleLinkListEnumerator.Reset">
+            <summary>
+            Reset
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.DoubleLinkList`1"/> class.
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.DoubleLinkList`1.Item(System.Int32)">
+            <summary>
+            Get or Set the item at the specified index
+            Random Access will be SLOW
+            </summary>
+            <param name="index">Index.</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.DoubleLinkList`1.Count">
+            <summary>
+            Count
+            May be SLOW
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.DoubleLinkList`1.IsReadOnly">
+            <summary>
+            Is Readonly
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.Add(`0)">
+            <summary>
+            Add a item
+            May be SLOW
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.Clear">
+            <summary>
+            Clear the list
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.Contains(`0)">
+            <summary>
+            If contain the specified item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.CopyTo(`0[],System.Int32)">
+            <summary>
+            Copy to
+            </summary>
+            <param name="array">Destination Array</param>
+            <param name="arrayIndex">Destination Array index</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.GetEnumerator">
+            <summary>
+            Get the enumerator
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.IndexOf(`0)">
+            <summary>
+            Get the index of the item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.Insert(System.Int32,`0)">
+            <summary>
+            Insert the specified item
+            May be slow
+            </summary>
+            <param name="index">index.</param>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.Remove(`0)">
+            <summary>
+            Remove first of the specified item.
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkList`1.RemoveAt(System.Int32)">
+            <summary>
+            Removes the item at specified index.
+            </summary>
+            <param name="index">index</param>
+        </member>
+        <member name="T:Lsj.Util.Collections.DoubleLinkListNode`1">
+            <summary>
+            DoubleLinkList node.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.DoubleLinkListNode`1.#ctor(Lsj.Util.Collections.DoubleLinkList{`0})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.DoubleLinkListNode`1"/> class.
+            </summary>
+            <param name="list">list</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.DoubleLinkListNode`1.List">
+            <summary>
+            The DoubleLinkList
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.DoubleLinkListNode`1.Value">
+            <summary>
+            The Value
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.DoubleLinkListNode`1.Next">
+            <summary>
+            Next Node
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.DoubleLinkListNode`1.Prev">
+            <summary>
+            Previous Node
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.LinkList`1">
+            <summary>
+            LinkList
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.LinkList`1.LinkListEnumerator">
+            <summary>
+            LinkList Enumerator
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.LinkListEnumerator.Dispose">
+            <summary>
+            Dispose
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.LinkListEnumerator.MoveNext">
+            <summary>
+            Move To Next
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.LinkListEnumerator.Reset">
+            <summary>
+            Reset
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.LinkList`1"/> class.
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.LinkList`1.Item(System.Int32)">
+            <summary>
+            Get or Set the item at the specified index
+            Random Access will be SLOW
+            </summary>
+            <param name="index">Index.</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.LinkList`1.Count">
+            <summary>
+            Count
+            May be SLOW
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.LinkList`1.IsReadOnly">
+            <summary>
+            Is Readonly
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.Add(`0)">
+            <summary>
+            Add a item
+            May be SLOW
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.Clear">
+            <summary>
+            Clear the list
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.Contains(`0)">
+            <summary>
+            If contain the specified item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.CopyTo(`0[],System.Int32)">
+            <summary>
+            Copy to
+            </summary>
+            <param name="array">Destination Array</param>
+            <param name="arrayIndex">Destination Array index</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.GetEnumerator">
+            <summary>
+            Get the enumerator
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.IndexOf(`0)">
+            <summary>
+            Get the index of the item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.Insert(System.Int32,`0)">
+            <summary>
+            Insert the specified item at specified index
+            May be slow
+            </summary>
+            <param name="index">index</param>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.Remove(`0)">
+            <summary>
+            Remove first of the specified item.
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkList`1.RemoveAt(System.Int32)">
+            <summary>
+            Removes the item at specified index.
+            </summary>
+            <param name="index">index</param>
+        </member>
+        <member name="T:Lsj.Util.Collections.LinkListNode`1">
+            <summary>
+            LinkList node.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.LinkListNode`1.#ctor(Lsj.Util.Collections.LinkList{`0})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.LinkList`1"/> class.
+            </summary>
+            <param name="list">List.</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.LinkListNode`1.List">
+            <summary>
+            The LinkList
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.LinkListNode`1.Value">
+            <summary>
+            The Value
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.LinkListNode`1.Next">
+            <summary>
+            Next Node
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.MultiThreadSafeDictionary`2">
+            <summary>
+            Multi thread safe dictionary
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Keys">
+            <summary>
+            Keys
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Values">
+            <summary>
+            Values
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.MultiThreadSafeDictionary`2"/> class.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.#ctor(System.Collections.Generic.Dictionary{`0,`1})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.MultiThreadSafeDictionary`2"/> class.
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Count">
+            <summary>
+            Count
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.MultiThreadSafeDictionary`2.IsReadOnly">
+            <summary>
+            Is Readonly
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Item(`0)">
+            <summary>
+            Get or Set the item with specified key
+            </summary>
+            <param name="key">Key</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Add(`0,`1)">
+            <summary>
+            Add the specified key and value.
+            </summary>
+            <returns>The add.</returns>
+            <param name="key">Key.</param>
+            <param name="value">Value.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Add(System.Collections.Generic.KeyValuePair{`0,`1})">
+            <summary>
+            Add the specified item.
+            </summary>
+            <returns>The add.</returns>
+            <param name="item">Item.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Remove(`0)">
+            <summary>
+            Remove the specified key.
+            </summary>
+            <returns>The remove.</returns>
+            <param name="key">Key.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Remove(System.Collections.Generic.KeyValuePair{`0,`1})">
+            <summary>
+            Remove the specified item.
+            </summary>
+            <returns>The remove.</returns>
+            <param name="item">Item.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Clear">
+            <summary>
+            Clear this instance.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.CopyTo(System.Collections.Generic.KeyValuePair{`0,`1}[],System.Int32)">
+            <summary>
+            Copy to
+            </summary>
+            <param name="array">Destination Array</param>
+            <param name="arrayIndex">Destination Array Index</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.ContainsKey(`0)">
+            <summary>
+            If contain specific key
+            </summary>
+            <param name="key">Key</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})">
+            <summary>
+            If contain specified item.
+            </summary>
+            <returns>The contains.</returns>
+            <param name="item">Item.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.TryGetValue(`0,`1@)">
+            <summary>
+            Try to get value
+            </summary>
+            <param name="key">Key</param>
+            <param name="value">Value</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.GetEnumerator">
+            <summary>
+            Gets the enumerator.
+            </summary>
+            <returns>The enumerator.</returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeDictionary`2.ToDictionary">
+            <summary>
+            Convert To Dictionary
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.MultiThreadSafeList`1">
+            <summary>
+            Multi thread safe List
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.MultiThreadSafeList`1"/> class.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.#ctor(System.Collections.Generic.List{`0})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.MultiThreadSafeList`1"/> class.
+            </summary>
+            <param name="src">source</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.MultiThreadSafeList`1.Item(System.Int32)">
+            <summary>
+            Get or Set the item at the specified index
+            </summary>
+            <param name="index">index</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.MultiThreadSafeList`1.Count">
+            <summary>
+            Count
+            </summary>
+            <value>The count.</value>
+        </member>
+        <member name="P:Lsj.Util.Collections.MultiThreadSafeList`1.IsReadOnly">
+            <summary>
+            Is Readonly
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.Add(`0)">
+            <summary>
+            Add a item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.Clear">
+            <summary>
+            Clear the list
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.Contains(`0)">
+            <summary>
+            If contain the specified item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.CopyTo(`0[],System.Int32)">
+            <summary>
+            Copy to
+            </summary>
+            <param name="array">Destination Array</param>
+            <param name="arrayIndex">Destination Array Index</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.GetEnumerator">
+            <summary>
+            Get the enumerator
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.IndexOf(`0)">
+            <summary>
+            Get the index of the item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.Insert(System.Int32,`0)">
+            <summary>
+            Insert the specified item at specified index
+            </summary>
+            <param name="index">index</param>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.Remove(`0)">
+            <summary>
+            Remove first of the specified item.
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.RemoveAt(System.Int32)">
+            <summary>
+            Removes at index.
+            </summary>
+            <param name="index">Index.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MultiThreadSafeList`1.CleanUpManagedResources">
+            <summary>
+            Clean Up Managed Resources
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.MyQueue`1">
+            <summary>
+            Queue
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MyQueue`1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.MyQueue`1"/> class.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MyQueue`1.Enqueue(`0)">
+            <summary>
+            Enqueue
+            </summary>
+            <param name="value">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.MyQueue`1.Dequeue">
+            <summary>
+            Dequeue
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MyQueue`1.Peek">
+            <summary>
+            Peek
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.MyQueue`1.Count">
+            <summary>
+            Count
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.MyQueue`1.IsEmpty">
+            <summary>
+            Is Empty
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.MyStack`1">
+            <summary>
+            Stack
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MyStack`1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.MyStack`1"/> class.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MyStack`1.Push(`0)">
+            <summary>
+            Push
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MyStack`1.Pop">
+            <summary>
+            Pop
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.MyStack`1.Peek">
+            <summary>
+            Peek
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.MyStack`1.Count">
+            <summary>
+            Count
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.MyStack`1.IsEmpty">
+            <summary>
+            Is Empty
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.ObjectPool`1">
+            <summary>
+            Object Pool
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.ObjectPool`1.Capacity">
+            <summary>
+            Capacity
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.ObjectPool`1.#ctor(System.Func{`0})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.ObjectPool`1"/> class.
+            </summary>
+            <param name="createMethod">Create Method</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.ObjectPool`1.Dequeue">
+            <summary>
+            Dequeue
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.ObjectPool`1.Enqueue(`0)">
+            <summary>
+            Enqueue
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.PriorityQueue`1">
+            <summary>
+            Priority Queue
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="M:Lsj.Util.Collections.PriorityQueue`1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.PriorityQueue`1"/> class.
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.PriorityQueue`1.Count">
+            <summary>
+            Count
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.PriorityQueue`1.Dequeue">
+            <summary>
+            Dequeue
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.PriorityQueue`1.Enqueue(`0)">
+            <summary>
+            Enqueue
+            </summary>
+            <param name="value"></param>
+        </member>
+        <member name="T:Lsj.Util.Collections.SafeDictionary`2">
+            <summary>
+            Safe dictionary
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.SafeDictionary`2.Keys">
+            <summary>
+            Keys
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.SafeDictionary`2.Values">
+            <summary>
+            Values
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.SafeDictionary`2"/> class.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.#ctor(System.Collections.Generic.Dictionary{`0,`1})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.SafeDictionary`2"/> class.
+            </summary>
+            <param name="src">Source</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.SafeDictionary`2.NullValue">
+            <summary>
+            NullValue
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.SafeDictionary`2.Count">
+            <summary>
+            Count
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.SafeDictionary`2.IsReadOnly">
+            <summary>
+            Is Readonly
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.SafeDictionary`2.Item(`0)">
+            <summary>
+            Get or Set the item with specified key
+            </summary>
+            <param name="key">Key</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Add(`0,`1)">
+            <summary>
+            Add the specified key and value.
+            </summary>
+            <returns>The add.</returns>
+            <param name="key">Key.</param>
+            <param name="value">Value.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Add(System.Collections.Generic.KeyValuePair{`0,`1})">
+            <summary>
+            Add the specified item.
+            </summary>
+            <returns>The add.</returns>
+            <param name="item">Item.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Remove(`0)">
+            <summary>
+            Remove the specified key.
+            </summary>
+            <returns>The remove.</returns>
+            <param name="key">Key.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Remove(System.Collections.Generic.KeyValuePair{`0,`1})">
+            <summary>
+            Remove the specified item.
+            </summary>
+            <returns>The remove.</returns>
+            <param name="item">Item.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Clear">
+            <summary>
+            Clear this instance.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.CopyTo(System.Collections.Generic.KeyValuePair{`0,`1}[],System.Int32)">
+            <summary>
+            Copy to
+            </summary>
+            <param name="array">Destination Array</param>
+            <param name="arrayIndex">Destination Array Index</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.ContainsKey(`0)">
+            <summary>
+            If contain specific key
+            </summary>
+            <param name="key">Key</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Contains(System.Collections.Generic.KeyValuePair{`0,`1})">
+            <summary>
+            If contain specified item.
+            </summary>
+            <returns>The contains.</returns>
+            <param name="item">Item.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.TryGetValue(`0,`1@)">
+            <summary>
+            Try to get value
+            </summary>
+            <param name="key">Key</param>
+            <param name="value">Value</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.GetEnumerator">
+            <summary>
+            Gets the enumerator.
+            </summary>
+            <returns>The enumerator.</returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.ToDictionary">
+            <summary>
+            Convert To Dictionary
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Set(`0,`1)">
+            <summary>
+            Set
+            </summary>
+            <param name="key"></param>
+            <param name="value"></param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Contain(`0)">
+            <summary>
+            Contain
+            </summary>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Clr">
+            <summary>
+            Clear
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeDictionary`2.Del(`0)">
+            <summary>
+            Delete
+            </summary>
+            <param name="key"></param>
+        </member>
+        <member name="T:Lsj.Util.Collections.SafeStringToStringDictionary">
+            <summary>
+            Safe string to string directionary
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeStringToStringDictionary.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.SafeStringToStringDictionary"/> class.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SafeStringToStringDictionary.#ctor(System.Collections.Generic.Dictionary{System.String,System.String})">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.SafeStringToStringDirectionary"/> class.
+            </summary>
+            <param name="src">Source</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.SafeStringToStringDictionary.NullValue">
+            <summary>
+            NullValue
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.SeqList`1">
+            <summary>
+            Sequence List
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.SeqList`1.SeqListEnumerator">
+            <summary>
+            Sequence List
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.SeqListEnumerator.Dispose">
+            <summary>
+            Dispose
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.SeqListEnumerator.MoveNext">
+            <summary>
+            Move to the next
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.SeqListEnumerator.Reset">
+            <summary>
+            Reset
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.SeqList`1"/> class.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.Add(`0)">
+            <summary>
+            Add a item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.Clear">
+            <summary>
+            Clear
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.Contains(`0)">
+            <summary>
+            If contain the specified item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.CopyTo(`0[],System.Int32)">
+            <summary>
+            Copy to
+            </summary>
+            <param name="array">Destination Array</param>
+            <param name="arrayIndex">Destination Array index</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.SeqList`1.Count">
+            <summary>
+            Count
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.SeqList`1.IsReadOnly">
+            <summary>
+            Is Readonly
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.Remove(`0)">
+            <summary>
+            Remove first of the specified item.
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.IndexOf(`0)">
+            <summary>
+            Get the index of the item
+            </summary>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.Insert(System.Int32,`0)">
+            <summary>
+            Insert the specified item at specified index
+            </summary>
+            <param name="index">index</param>
+            <param name="item">item</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.RemoveAt(System.Int32)">
+            <summary>
+            Removes the item at specified index.
+            </summary>
+            <param name="index">index</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.SeqList`1.Item(System.Int32)">
+            <summary>
+            Get or Set the item at the specified index
+            </summary>
+            <param name="index">Index.</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.GetEnumerator">
+            <summary>
+            Gets the enumerator
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.SeqList`1.TrimExcess">
+            <summary>
+            Trim Excess
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.TwoWayDictionary`2">
+            <summary>
+            Two way dictionary
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.TwoWayDictionary`2"/> class.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.#ctor(System.Boolean)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.TwoWayDictionary`2"/> class.
+            </summary>
+            <param name="IsMultiThreadSafety">If set to <c>true</c> is multi thread safety.</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.TwoWayDictionary`2.Item(`0)">
+            <summary>
+            Get or Set the value with specified key
+            </summary>
+            <param name="key">Key</param>
+        </member>
+        <member name="P:Lsj.Util.Collections.TwoWayDictionary`2.Item(`1)">
+            <summary>
+            Get or Set the key with specified value
+            </summary>
+            <param name="x">value</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.GetKeyByValue(`1)">
+            <summary>
+            Get Key By Value
+            </summary>
+            <param name="value"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.GetValueByKey(`0)">
+            <summary>
+            Get Value By Key
+            </summary>
+            <param name="key"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.TryGetKeyByValue(`1,`0@)">
+            <summary>
+            Try Get Key By Value
+            </summary>
+            <param name="value">Value</param>
+            <param name="result">Key</param>
+            <returns>IsContainsValue</returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.TryGetValueByKey(`0,`1@)">
+            <summary>
+            Try Get Value By Key
+            </summary>
+            <param name="value">Key</param>
+            <param name="result">Value</param>
+            <returns>IsContainsKey</returns>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.Add(`0,`1)">
+            <summary>
+            Add the specified key and value.
+            </summary>
+            <param name="key">key</param>
+            <param name="value">value</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.GetEnumerator">
+            <summary>
+            Gets the enumerator
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.ContainsKey(`0)">
+            <summary>
+            If contain specific key
+            </summary>
+            <param name="key">Key</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.ContainsValue(`1)">
+            <summary>
+            If contain specific value
+            </summary>
+            <param name="value">Value</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.NullValue(`0)">
+            <summary>
+            NullValue
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.TwoWayDictionary`2.NullKey(`1)">
+            <summary>
+            NullKey
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Collections.WeightedSimpleDigraph">
+            <summary>
+            Weighted Digraph
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Collections.WeightedSimpleDigraph.Order">
+            <summary>
+            Order
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Collections.WeightedSimpleDigraph.#ctor(System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Collections.WeightedSimpleDigraph"/> class.
+            </summary>
+            <param name="order"></param>
+        </member>
+        <member name="M:Lsj.Util.Collections.WeightedSimpleDigraph.AddEdge(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Add Edge
+            </summary>
+            <param name="from">From Vertex</param>
+            <param name="to">To Vertex</param>
+            <param name="weight">Weight</param>
+        </member>
+        <member name="M:Lsj.Util.Collections.WeightedSimpleDigraph.OptimalPathWithDijkstra(System.Int32,System.Nullable{System.Int32}[]@,System.Nullable{System.Int32}[]@)">
+            <summary>
+            Get Optimal Path with Dijkstra Algotithm
+            </summary>
+            <param name="from">From Vertex</param>
+            <param name="dis">Distances</param>
+            <param name="prv">Previous Vertices</param>
+        </member>
+        <member name="T:Lsj.Util.SortHelper">
+            <summary>
+            Sort Helper
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.SortHelper.BubbleSort``1(System.Collections.Generic.IList{``0})">
+            <summary>
+            Bubble Sort
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="list">List to sort</param>
+        </member>
+        <member name="M:Lsj.Util.SortHelper.SingleSelectionSort``1(System.Collections.Generic.IList{``0})">
+            <summary>
+            Single Selection Sort
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="list">List to sort</param>
+        </member>
+        <member name="M:Lsj.Util.SortHelper.DirectInsertionSort``1(System.Collections.Generic.IList{``0})">
+            <summary>
+            Direct Insertion Sort
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="list">List to sort</param>
+        </member>
+        <member name="T:Lsj.Util.Config.ConfigElement">
+            <summary>
+            Config Element
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Config.ConfigElement.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Config.ConfigElement"/> class
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Config.ConfigElement.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Config.ConfigElement"/> class
+            </summary>
+            <param name="value">Value.</param>
+        </member>
+        <member name="P:Lsj.Util.Config.ConfigElement.Value">
+            <summary>
+            Get the value
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Config.ConfigElement.StringArrayValue">
+            <summary>
+            Get value as string array
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Config.ConfigElement.BoolValue">
+            <summary>
+            Get value as bool
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Config.ConfigElement.IntValue">
+            <summary>
+            Get value as int
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Config.ConfigElement.Null">
+            <summary>
+            NullConfigElemnet
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Config.ConfigElementNameAttribute">
+            <summary>
+            ConfigElement Name Attribute
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Config.ConfigElementNameAttribute.Name">
+            <summary>
+            Name
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Config.XmlConfigFile">
+            <summary>
+            XML Confg File
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Config.XmlConfigFile.#ctor(System.String)">
+            <summary>
+            Initialize a new instance of the <see cref="T:Lsj.Util.Config.XmlConfigFile"/> class with a path
+            </summary>
+            <param name="path"></param>
+        </member>
+        <member name="M:Lsj.Util.Config.XmlConfigFile.Refresh">
+            <summary>
+            Refresh
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.CsComplier">
+            <summary>
+            Cs Complier
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.CsComplier.target">
+            <summary>
+            Target Dll
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.CsComplier.using">
+            <summary>
+            Using DLL
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.CsComplier.path">
+            <summary>
+            Source Path
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.CsComplier.Error">
+            <summary> 
+             Error
+             </summary>    
+        </member>
+        <member name="M:Lsj.Util.CsComplier.Complie">
+            <summary>
+            Complie
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.CsComplier.Complie(System.String@)">
+            <summary>
+            Complie
+            <param name="log">log</param>
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.DisposableClass">
+            <summary>
+            Disposable Class
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.DisposableClass.Finalize">
+            <summary>
+            Finalize
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.DisposableClass.Dispose">
+            <summary>
+            Dispose
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.DisposableClass.CleanUpUnmanagedResources">
+            <summary>
+            Clean Up Unmanaged Resources
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.DisposableClass.CleanUpManagedResources">
+            <summary>
+            Clean Up Managed Resources
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Encrypt.MD5">
+            <summary>
+            MD5
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Encrypt.MD5.GetMD5String(System.String)">
+            <summary>
+            Get MD5 String (Upper)
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Encrypt.MD5.GetMD5String(System.Byte[])">
+            <summary>
+            Get MD5 String (Upper)
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Encrypt.MD5.GetDualMD5String(System.String)">
+            <summary>
+            Get Dual MD5 String (Upper)
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Encrypt.MD5.GetDualMD5String(System.Byte[])">
+            <summary>
+            Get Dual MD5 String (Upper)
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.HexHelper">
+            <summary>
+            HexHelper
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.HexHelper.ToHexDump(System.String,System.Byte[])">
+            <summary>
+            ToHexDump
+            </summary>
+            <param name="description"></param>
+            <param name="dump"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.HexHelper.ToHexDump(System.String,System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            ToHexDump
+            </summary>
+            <param name="description"></param>
+            <param name="dump"></param>
+            <param name="start"></param>
+            <param name="count"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.IO.BufferListStream">
+            <summary>
+            A Stream that write and read once buffer list.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.IO.BufferListStream.#ctor">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.IO.BufferListStream.CanRead">
+            <inheritdoc/>
+        </member>
+        <member name="P:Lsj.Util.IO.BufferListStream.CanSeek">
+            <inheritdoc/>
+        </member>
+        <member name="P:Lsj.Util.IO.BufferListStream.CanWrite">
+            <inheritdoc/>
+        </member>
+        <member name="P:Lsj.Util.IO.BufferListStream.Length">
+            <inheritdoc/>
+        </member>
+        <member name="P:Lsj.Util.IO.BufferListStream.Position">
+            <inheritdoc/>
+        </member>
+        <member name="M:Lsj.Util.IO.BufferListStream.Flush">
+            <inheritdoc/>
+        </member>
+        <member name="M:Lsj.Util.IO.BufferListStream.Read(System.Byte[],System.Int32,System.Int32)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Lsj.Util.IO.BufferListStream.Seek(System.Int64,System.IO.SeekOrigin)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Lsj.Util.IO.BufferListStream.SetLength(System.Int64)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Lsj.Util.IO.BufferListStream.Write(System.Byte[],System.Int32,System.Int32)">
+            <inheritdoc/>
+        </member>
+        <member name="M:Lsj.Util.IO.BufferListStream.AddBuffer(System.Byte[])">
+            <summary>
+            Add new buffer to buffer list.
+            </summary>
+            <param name="buffer"></param>
+        </member>
+        <member name="T:Lsj.Util.IO.DirectoryHelper">
+            <summary>
+            Directory Helper
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.IO.DirectoryHelper.GetAllFilesIncludeChild(System.IO.DirectoryInfo,System.String)">
+            <summary>
+            Get All Files including child directory
+            </summary>
+            <param name="path">path</param>
+            <param name="filter">filter</param>
+        </member>
+        <member name="M:Lsj.Util.IO.DirectoryHelper.IsExistsPath(System.String)">
+            <summary>
+            Check Path Is Exists
+            </summary>
+            <param name="path">path</param>
+        </member>
+        <member name="T:Lsj.Util.IO.FileHelper">
+            <summary>
+            FileHelper
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.IO.FileHelper.GetFileLength(System.String)">
+            <summary>
+            GetFileLength
+            </summary>
+            <param name="path"></param>
+        </member>
+        <member name="M:Lsj.Util.IO.FileHelper.IsExistsFile(System.String)">
+            <summary>
+            Check File Is Exists
+            </summary>
+            <param name="file">file</param>
+        </member>
+        <member name="T:Lsj.Util.Logs.LogType">
+            <summary>
+            Log Type
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Logs.LogType.None">
+            <summary>
+            None
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Logs.LogType.Debug">
+            <summary>
+            Debug
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Logs.LogType.Info">
+            <summary>
+            Info
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Logs.LogType.Warn">
+            <summary>
+            Warn
+            </summary>
+        </member>
+        <member name="F:Lsj.Util.Logs.LogType.Error">
+            <summary>
+            Error
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Logs.Interfaces.ILogger">
+            <summary>
+            Logger
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Logs.Interfaces.ILogger.Add(System.String,Lsj.Util.Logs.LogType)">
+            <summary>
+            Add Log
+            </summary>
+            <param name="str">content</param>
+            <param name="type">type</param>
+        </member>
+        <member name="T:Lsj.Util.Logs.Logger.ConsoleLogger">
+            <summary>
+            Console Logger
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Logs.Logger.ConsoleLogger.ConsoleDebugColor">
+            <summary>
+            Console Debug Color
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Logs.Logger.ConsoleLogger.ConsoleInfoColor">
+            <summary>
+            Console Info Color
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Logs.Logger.ConsoleLogger.ConsoleWarnColor">
+            <summary>
+            Console Warn Color
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Logs.Logger.ConsoleLogger.ConsoleErrorColor">
+            <summary>
+            Console Error Color
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Logs.Logger.ConsoleLogger.Add(System.String,Lsj.Util.Logs.LogType)">
+            <summary>
+            Add Log
+            </summary>
+            <param name="str">content</param>
+            <param name="type">type</param>
+        </member>
+        <member name="T:Lsj.Util.Logs.Logger.FileLogger">
+            <summary>
+            File Logger
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Logs.Logger.FileLogger.FilePath">
+            <summary>
+            FilePath
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Logs.Logger.FileLogger.Add(System.String,Lsj.Util.Logs.LogType)">
+            <summary>
+            Add Log
+            </summary>
+            <param name="str">content</param>
+            <param name="type">type</param>
+        </member>
+        <member name="T:Lsj.Util.Logs.LogProvider">
+            <summary>
+            Log Provider
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Logs.LogProvider.Default">
+            <summary>
+            Default
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Logs.LogProvider.Loggers">
+            <summary>
+            Get Loggers
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Logs.LogProvider.LogLevel">
+            <summary>
+            Log Level
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Add(System.String,Lsj.Util.Logs.LogType)">
+            <summary>
+            Add Log
+            </summary>
+            <param name="str">content</param>
+            <param name="type">type</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Add(System.String,System.Exception,Lsj.Util.Logs.LogType)">
+            <summary>
+            Add Log
+            </summary>
+            <param name="str">content</param>
+            <param name="e">exception</param>
+            <param name="type">type</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Debug(System.String)">
+            <summary>
+            Debug
+            </summary>
+            <param name="str">content</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Debug(System.Object)">
+            <summary>
+            Debug
+            </summary>
+            <param name="o">content</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Info(System.String)">
+            <summary>
+            Info
+            </summary>
+            <param name="str">content</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Warn(System.String)">
+            <summary>
+            Warn
+            </summary>
+            <param name="str">content</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Error(System.String)">
+            <summary>
+            Error
+            </summary>
+            <param name="str">content</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Error(System.Object)">
+            <summary>
+            Error
+            </summary>
+            <param name="obj">content</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Debug(System.Exception)">
+            <summary>
+            Debug
+            </summary>
+            <param name="e">exception</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Info(System.Exception)">
+            <summary>
+            Info
+            </summary>
+            <param name="e">exception</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Warn(System.Exception)">
+            <summary>
+            Warn
+            </summary>
+            <param name="e">exception</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Error(System.Exception)">
+            <summary>
+            Error
+            </summary>
+            <param name="e">exception</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Warn(System.String,System.Exception)">
+            <summary>
+            Warn
+            </summary>
+            <param name="str">content</param>
+            <param name="e">exception</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.Error(System.String,System.Exception)">
+            <summary>
+            Error
+            </summary>
+            <param name="str">content</param>
+            <param name="e">exception</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.WarnFormat(System.String,System.Object[])">
+            <summary>
+            WarnFormat
+            </summary>
+            <param name="str">format</param>
+            <param name="obj">args</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.ErrorFormat(System.String,System.Object[])">
+            <summary>
+            ErrorFormat
+            </summary>
+            <param name="str">format</param>
+            <param name="obj">args</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.InfoFormat(System.String,System.Object[])">
+            <summary>
+            InfoFormat
+            </summary>
+            <param name="str">format</param>
+            <param name="obj">args</param>
+        </member>
+        <member name="M:Lsj.Util.Logs.LogProvider.DebugFormat(System.String,System.Object[])">
+            <summary>
+            DebugFormat
+            </summary>
+            <param name="str">format</param>
+            <param name="obj">args</param>
+        </member>
+        <member name="T:Lsj.Util.MarshalExtensions">
+            <summary>
+            <see cref="T:System.Runtime.InteropServices.Marshal"/> Extensions
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.MarshalExtensions.SizeOf``1">
+            <summary>
+            Size Of
+            </summary>
+            <typeparam name="T"></typeparam>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.MarshalExtensions.StructureToPtr``1(``0)">
+            <summary>
+            Marshal <paramref name="val"/> to a unmanaged memory block,
+            which was alloced by <see cref="M:System.Runtime.InteropServices.Marshal.AllocHGlobal(System.Int32)"/>.
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="val"></param>
+            <returns>The <see cref="T:System.IntPtr"/> to the unmanaged memory block. </returns>
+        </member>
+        <member name="T:Lsj.Util.MathHelper">
+            <summary>
+            MathHelper
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.IsNumeric(System.Object)">
+            <summary>
+            IsNumeric
+            </summary>
+            <param name="obj">obj</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.IsNumeric(System.Type)">
+            <summary>
+            IsNumeric
+            </summary>
+            <param name="type"></param>
+            <exception cref="T:System.ArgumentNullException">type is null</exception>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToInt(System.Int64)">
+            <summary>
+            ConvertToInt
+            </summary>
+            <param name="x">Value</param>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToInt(System.Int64,System.Int32,System.Int32)">
+            <summary>
+            ConvertToInt
+            </summary>
+            <param name="x">Value</param>
+            <param name="min">MinValue</param>
+            <param name="max">MaxValue</param>
+            <exception cref="T:System.ArgumentException">Max value is less than min value.</exception>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToInt(System.Double)">
+            <summary>
+            ConvertToInt
+            </summary>
+            <param name="x">Value</param>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToInt(System.Double,System.Int32,System.Int32)">
+            <summary>
+            ConvertToInt
+            </summary>
+            <param name="x">Value</param>
+            <param name="min">MinValue</param>
+            <param name="max">MaxValue</param>
+            <exception cref="T:System.ArgumentException">Max value is less than min value.</exception>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToInt(System.Decimal)">
+            <summary>
+            ConvertToInt
+            </summary>
+            <param name="x">Value</param>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToInt(System.Decimal,System.Int32,System.Int32)">
+            <summary>
+            ConvertToInt
+            </summary>
+            <param name="x">Value</param>
+            <param name="min">MinValue</param>
+            <param name="max">MaxValue</param>
+            <exception cref="T:System.ArgumentException">Max value is less than min value.</exception>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToLong(System.Double)">
+            <summary>
+            ConvertToLong
+            </summary>
+            <param name="x">Value</param>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToLong(System.Double,System.Int64,System.Int64)">
+            <summary>
+            ConvertToInt
+            </summary>
+            <param name="x">Value</param>
+            <param name="min">MinValue</param>
+            <param name="max">MaxValue</param>
+            <exception cref="T:System.ArgumentException">Max value is less than min value.</exception>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToLong(System.Decimal)">
+            <summary>
+            ConvertToLong
+            </summary>
+            <param name="x">Value</param>
+        </member>
+        <member name="M:Lsj.Util.MathHelper.ConvertToLong(System.Decimal,System.Int64,System.Int64)">
+            <summary>
+            ConvertToInt
+            </summary>
+            <param name="x">Value</param>
+            <param name="min">MinValue</param>
+            <param name="max">MaxValue</param>
+            <exception cref="T:System.ArgumentException">Max value is less than min value.</exception>
+        </member>
+        <member name="T:Lsj.Util.ProcessStandardIORedirector">
+            <summary>
+            Process Standard IO Redirector
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.ProcessStandardIORedirector.StartProcess(System.String,System.String,System.String)">
+            <summary>
+            Start Process
+            </summary>
+            <param name="filename"></param>
+            <param name="arguments"></param>
+            <param name="workingDirectory"></param>
+        </member>
+        <member name="M:Lsj.Util.ProcessStandardIORedirector.RestartProcess">
+            <summary>
+            Restart Process
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="P:Lsj.Util.ProcessStandardIORedirector.IsRunning">
+            <summary>
+            IsRunning
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.ProcessStandardIORedirector.KillProcess">
+            <summary>
+            Kill Process
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.ProcessStandardIORedirector.WriteLine(System.String)">
+            <summary>
+            Write Line To Standard Input
+            </summary>
+            <param name="line"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.ProcessStandardIORedirector.WriteLine(System.Object)">
+            <summary>
+            Write Line To Standard Input
+            </summary>
+            <param name="o"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.ProcessStandardIORedirector.Readline">
+            <summary>
+            Read Line To Standard Ouput
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.QuickBitConverter">
+            <summary>
+            Quick Bit Converter
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.QuickBitConverter.ConvertToInt(System.Byte[])">
+            <summary>
+            Convert To Int
+            </summary>
+            <param name="src"></param>
+            <exception cref="T:System.ArgumentNullException">The src is null.</exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">The length of src is less than 4.</exception>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.QuickBitConverter.ConvertToInt(System.Byte[],System.Int32)">
+            <summary>
+            Convert To Int
+            </summary>
+            <param name="src"></param>
+            <param name="offset"></param>
+            <exception cref="T:System.ArgumentNullException">src is null</exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">The offset is less than zero or the offset + 4 is larger than the length of src.</exception>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.QuickBitConverter.ConvertToInt(System.Byte*)">
+            <summary>
+            Convert To Int
+            </summary>
+            <param name="src"></param>
+            <exception cref="T:System.ArgumentNullException">The pointer is null.</exception>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.QuickBitConverter.ConvertToShort(System.Byte[])">
+            <summary>
+            Convert To Short
+            </summary>
+            <param name="src"></param>
+            <exception cref="T:System.ArgumentNullException">The src is null.</exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">The length of src is less than 2.</exception>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.QuickBitConverter.ConvertToShort(System.Byte[],System.Int32)">
+            <summary>
+            Convert To Short
+            </summary>
+            <param name="src"></param>
+            <param name="offset"></param>
+            <exception cref="T:System.ArgumentNullException">src is null</exception>
+            <exception cref="T:System.ArgumentOutOfRangeException">The offset is less than zero or the offset + 2 is larger than the length of src.</exception>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.QuickBitConverter.ConvertToShort(System.Byte*)">
+            <summary>
+            Convert To Short
+            </summary>
+            <param name="src"></param>
+            <exception cref="T:System.ArgumentNullException">The pointer is null.</exception>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.QuickBitConverter.ConvertToBytes(System.Int32)">
+            <summary>
+            Convert To Bytes
+            </summary>
+            <param name="val"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.QuickBitConverter.ConvertToBytes(System.Int16)">
+            <summary>
+            Convert To Bytes
+            </summary>
+            <param name="val"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.Reflection.ReflectionHelper">
+            <summary>
+            Reflection Helper
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.GetAllNonPublicField(System.Type)">
+            <summary>
+            Get All Non-Public Field
+            </summary>
+            <param name="type">Type</param>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.HasAttribute``1(System.Reflection.MemberInfo)">
+            <summary>
+            Has Attribute
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="member"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.GetAttribute``1(System.Reflection.MemberInfo)">
+            <summary>
+            Get Attribute
+            </summary>
+            <typeparam name="T">Attribute Type</typeparam>
+            <param name="member">member</param>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.CreateInstance``1(System.Object[])">
+            <summary>
+            Create Instance
+            </summary>
+            <typeparam name="T">type</typeparam>
+            <param name="param">param</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.CreateInstance``1(System.Type,System.Object[])">
+            <summary>
+            Create Instance
+            </summary>
+            <typeparam name="T">type</typeparam>
+            <param name="type">type</param>
+            <param name="param">param</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.CreateInstance(System.Type,System.Object[])">
+            <summary>
+            Create Instance
+            </summary>
+            <param name="type">type</param>
+            <param name="param">param</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.GetTypeName(System.Type)">
+            <summary>
+            Get Type Name
+            </summary>
+            <param name="type"></param>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.IsDictionary(System.Object)">
+            <summary>
+            Is IDictionary or IDictionary&lt;,&gt;
+            </summary>
+            <param name="obj">obj</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.IsDictionary(System.Type)">
+            <summary>
+            Is IDictionary or IDictionary&lt;,&gt;
+            </summary>
+            <param name="type">type</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.IsList(System.Object)">
+            <summary>
+            Is IList or IList&lt;&gt;
+            </summary>
+            <param name="obj">obj</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.IsList(System.Type)">
+            <summary>
+            Is IList or IList&lt;&gt;
+            </summary>
+            <param name="type">type</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.CreateListOfType(System.Type)">
+            <summary>
+            Create List Of Type
+            </summary>
+            <param name="type">type</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.CreateDictionaryOfType(System.Type,System.Type)">
+             <summary>
+             Create List Of Type
+             </summary>
+            <param name="typeKey"></param>
+            <param name="typeValue"></param>
+             <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.GetGenericType(System.Type,System.Type)">
+            <summary>
+            
+            </summary>
+            <param name="type"></param>
+            <param name="genericTypeDefinition"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Reflection.ReflectionHelper.SetValue(System.Reflection.PropertyInfo,System.Object,System.Object)">
+            <summary>
+            SetValue
+            </summary>
+            <param name="property"></param>
+            <param name="obj"></param>
+            <param name="value"></param>
+        </member>
+        <member name="T:Lsj.Util.Static">
+            <summary>
+            Static
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Static.CurrentPath">
+            <summary>
+            CurrentPath eg. C:\a\
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Static.DoNothing">
+            <summary>
+            Just Do Nothing (To make code shorter sometimes)
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Static.Version">
+            <summary>
+            Version
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.StreamHelper">
+            <summary>
+            StreamHelper
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.CopyToWithCount(System.IO.Stream,System.IO.Stream,System.Int64)">
+            <summary>
+            CopyTo with Count
+            </summary>
+            <param name="src">Source Stream.</param>
+            <param name="des">Destination Stream.</param>
+            <param name="count">Copy Count.</param>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.CopyToAsyncWithCount(System.IO.Stream,System.IO.Stream,System.Int64)">
+            <summary>
+            CopyToAsync with Count 
+            </summary>
+            <param name="src">Source Stream.</param>
+            <param name="des">Destination Stream.</param>
+            <param name="count">Copy Count.</param>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.ReadAll(System.IO.Stream)">
+            <summary>
+            ReadAll (Seek Before Read)
+            </summary>
+            <param name="stream"></param>
+            <exception cref="T:System.ArgumentException">The stream cannot seek or read</exception>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.ReadAllWithoutSeek(System.IO.Stream)">
+            <summary>
+            ReadAll Without Seek
+            </summary>
+            <param name="stream"></param>
+            <exception cref="T:System.ArgumentException">The stream cannot read</exception>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.ReadAsync(System.IO.Stream,System.Byte[],System.Int32,System.Int32)">
+            <summary>
+            ReadAsync
+            </summary>
+            <param name="stream"></param>
+            <param name="buffer"></param>
+            <param name="offset"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.Write(System.IO.Stream,System.Byte[])">
+            <summary>
+            Write
+            </summary>
+            <param name="stream"></param>
+            <param name="buffer"></param>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.Write(System.IO.Stream,System.Byte[],System.Int32)">
+            <summary>
+            Write
+            </summary>
+            <param name="stream"></param>
+            <param name="buffer"></param>
+            <param name="offset"></param>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.WriteAsync(System.IO.Stream,System.Byte[])">
+            <summary>
+            WriteAsync
+            </summary>
+            <param name="stream"></param>
+            <param name="buffer"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.BeginRead(System.IO.Stream,System.Byte[],System.AsyncCallback)">
+            <summary>
+            BeginRead
+            </summary>
+            <param name="stream"></param>
+            <param name="buffer"></param>
+            <param name="callback"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.BeginRead(System.IO.Stream,System.Byte[],System.Int32,System.AsyncCallback)">
+            <summary>
+            BeginRead
+            </summary>
+            <param name="stream"></param>
+            <param name="buffer"></param>
+            <param name="offset"></param>
+            <param name="callback"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.StreamHelper.BeginWrite(System.IO.Stream,System.Byte[],System.AsyncCallback)">
+            <summary>
+            
+            </summary>
+            <param name="stream"></param>
+            <param name="buffer"></param>
+            <param name="callback"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.Text.StringHelper">
+            <summary>
+            String Helper
+            Not check null string. Use empty if null.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.SubstringIgnoreOverFlow(System.String,System.Int32,System.Int32)">
+            <summary>
+            Substring with ignoring index overflow
+            </summary>
+            <param name="src"></param>
+            <param name="startIndex"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.RemoveLastOne(System.String)">
+            <summary>
+            Remove Last Char
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.RemoveLast(System.String,System.Int32)">
+            <summary>
+            Remove Last Chars
+            <param name="src">Source String</param>
+            <param name="n">Number</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.RemoveOne(System.String,System.Int32)">
+            <summary>
+            Remove One Char
+            </summary>
+            <param name="src">Source String</param>
+            <param name="n">Char Offset</param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.RemoveLastOne(System.Text.StringBuilder)">
+            <summary>
+            Remove Last Char
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.RemoveLast(System.Text.StringBuilder,System.Int32)">
+            <summary>
+            Remove Last Chars
+            <param name="src">Source String</param>
+            <param name="n">Number</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.Remove(System.Text.StringBuilder,System.Int32)">
+            <summary>
+            Remove Chars After n
+            </summary>
+            <param name="src"></param>
+            <param name="n"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToIntArray(System.String[])">
+            <summary>
+            Convert String Array To Int Array
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToByteArray(System.String[])">
+            <summary>
+            Convert String Array To Byte Array
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToBytes(System.String)">
+            <summary>
+            Convert String To Binary Byte Array
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToBytes(System.String,System.Text.Encoding)">
+            <summary>
+            Convert String To Binary Byte Array
+            <param name="src">Source String</param>
+            <param name="encoding">Encoding</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertFromBytes(System.Byte[])">
+            <summary>
+            Convert Binary Byte Array To String
+            <param name="src">Source ByteArray</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertFromBytes(System.Byte[],System.Text.Encoding)">
+            <summary>
+            Convert Binary Byte Array To String
+            <param name="src">Source ByteArray</param>
+            <param name="encoding">Encoding</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToInt(System.String)">
+            <summary>
+            Convert String To Int
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToInt(System.String,System.Int32)">
+            <summary>
+            Convert String To Int
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param> 
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToIntWithNull(System.String)">
+            <summary>
+            Convert String To Int
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToInt(System.String,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Convert String To Int
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToIntWithNull(System.String,System.Int32,System.Int32)">
+            <summary>
+            Convert String To Int
+            <param name="src">Source String</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToByte(System.String)">
+            <summary>
+            Convert String To Byte
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToByte(System.String,System.Byte)">
+            <summary>
+            Convert String To Byte
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param> 
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToByteWithNull(System.String)">
+            <summary>
+            Convert String To Byte
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToByte(System.String,System.Byte,System.Byte,System.Byte)">
+            <summary>
+            Convert String To Byte
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToByteWithNull(System.String,System.Byte,System.Byte)">
+            <summary>
+            Convert String To Byte
+            <param name="src">Source String</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToLong(System.String)">
+            <summary>
+            Convert String To Long
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToLong(System.String,System.Int64)">
+            <summary>
+            Convert String To Long
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param> 
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToLongWithNull(System.String)">
+            <summary>
+            Convert String To Long
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToLong(System.String,System.Int64,System.Int64,System.Int64)">
+            <summary>
+            Convert String To Long
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToLongWithNull(System.String,System.Int64,System.Int64)">
+            <summary>
+            Convert String To Long
+            <param name="src">Source String</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToFloat(System.String)">
+            <summary>
+            Convert String To Float
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToFloat(System.String,System.Single)">
+            <summary>
+            Convert String To Float
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param> 
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToFloatWithNull(System.String)">
+            <summary>
+            Convert String To Float
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToFloat(System.String,System.Single,System.Single,System.Single)">
+            <summary>
+            Convert String To Float
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToFloatWithNull(System.String,System.Single,System.Single)">
+            <summary>
+            Convert String To Float
+            <param name="src">Source String</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDouble(System.String)">
+            <summary>
+            Convert String To Double
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDouble(System.String,System.Double)">
+            <summary>
+            Convert String To Double
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param> 
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDoubleWithNull(System.String)">
+            <summary>
+            Convert String To Double
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDouble(System.String,System.Double,System.Double,System.Double)">
+            <summary>
+            Convert String To Double
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDoubleWithNull(System.String,System.Double,System.Double)">
+            <summary>
+            Convert String To Double
+            <param name="src">Source String</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDecimal(System.String)">
+            <summary>
+            Convert String To Decimal
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDecimal(System.String,System.Decimal)">
+            <summary>
+            Convert String To Decimal
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param> 
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDecimalWithNull(System.String)">
+            <summary>
+            Convert String To Decimal
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDecimal(System.String,System.Decimal,System.Decimal,System.Decimal)">
+            <summary>
+            Convert String To Decimal
+            <param name="src">Source String</param>
+            <param name="OnError">On Error Return</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDecimalWithNull(System.String,System.Decimal,System.Decimal)">
+            <summary>
+            Convert String To Decimal
+            <param name="src">Source String</param>
+            <param name="min">Minimum Value</param>
+            <param name="max">Maximum Value</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ToSafeString(System.String)">
+            <summary>
+            Avoid Null String
+            <param name="src">Source String</param>
+            </summary>        
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ToStringBuilder(System.String)">
+            <summary>
+            Convert String To StringBuilder
+            <param name="src">Source String</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ReadFromStream(System.IO.Stream,System.Text.Encoding)">
+            <summary>
+            Read String From Stream
+            <param name="stream">Source Stream</param>
+            <param name="encoding">Encoding</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ReadFromStream(System.IO.Stream)">
+            <summary>
+            Read String From Stream
+            <param name="stream">Source Stream</param>
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.Split(System.String,System.String)">
+            <summary>
+            Split
+            </summary>
+            <param name="str"></param>
+            <param name="sparator"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.IsMatchIgnoreCase(System.String,System.String)">
+            <summary>
+            Is Match Ignore Case
+            </summary>
+            <param name="src"></param>
+            <param name="str"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.IsMatch(System.String,System.String)">
+            <summary>
+            Is Match
+            </summary>
+            <param name="src"></param>
+            <param name="str"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDateTime(System.String)">
+            <summary>
+            Convert To Datetime
+            </summary>
+            <param name="src"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToDateTime(System.String,System.String)">
+            <summary>
+            Convert To Datetime
+            </summary>
+            <param name="src"></param>
+            <param name="format"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.Trim(System.String[])">
+            <summary>
+            Trim String Array
+            </summary>
+            <param name="x"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ReadStringFromBytePoint(System.Byte*,System.Int64,System.Text.Encoding)">
+            <summary>
+            Read String From Byte Point
+            </summary>
+            <param name="buffer"></param>
+            <param name="count"></param>
+            <param name="encoding"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ReadStringFromBytePoint(System.Byte*,System.Int64)">
+            <summary>
+            Read String From Byte Point
+            </summary>
+            <param name="buffer"></param>
+            <param name="count"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ReadStringFromByteSpan(System.Span{System.Byte})">
+            <summary>
+            Read String From Byte Span
+            </summary>
+            <param name="buffer"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ReadStringFromCharPoint(System.Char*,System.Int64)">
+            <summary>
+            Read String From Byte Point
+            </summary>
+            <param name="buffer"></param>
+            <param name="count"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ConvertToIPAddress(System.String)">
+            <summary>
+            Convert To IPAddress
+            </summary>
+            <param name="src"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.IsNullOrEmpty(System.String)">
+            <summary>
+            Is Null or Empty
+            </summary>
+            <param name="src"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.GetSurroundingChars(System.String,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="str"></param>
+            <param name="index">char index</param>
+            <param name="count">surrounding count</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.GetSurroundingChars(System.Char*,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="str"></param>
+            <param name="length"></param>
+            <param name="index">char index</param>
+            <param name="count">surrounding count</param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Text.StringHelper.ToGuid(System.String)">
+            <summary>
+            To <see cref="T:System.Guid"/>
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.Text.VariableString">
+            <summary>
+            Variable String
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.#ctor">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Text.VariableString"/> class.
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.#ctor(System.Int32)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Text.VariableString"/> class.
+            </summary>
+            <param name="bufferlength">Buffer Length</param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.#ctor(Lsj.Util.Text.VariableString)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Text.VariableString"/> class.
+            </summary>
+            <param name="src">Source</param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.#ctor(System.String)">
+            <summary>
+            Initializes a new instance of the <see cref="T:Lsj.Util.Text.VariableString"/> class.
+            </summary>
+            <param name="str">Source String</param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.CleanUpUnmanagedResources">
+            <summary>
+            Cleans up unmanaged resources
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.ToString">
+            <summary>
+            Convert To String
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.Clone">
+            <summary>
+            Clone
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Text.VariableString.Length">
+            <summary>
+            Length
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Text.VariableString.Item(System.Int32)">
+            <summary>
+            Get the char with the specified index.
+            </summary>
+            <param name="index">The index.</param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.CompareTo(Lsj.Util.Text.VariableString)">
+            <summary>
+            Compare to
+            </summary>
+            <returns></returns>
+            <param name="other">Other.</param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.Equals(System.Object)">
+            <summary>
+            Equal
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.Equals(Lsj.Util.Text.VariableString)">
+            <summary>
+            Equals
+            </summary>
+            <param name="str"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.GetEnumerator">
+            <summary>
+            Gets the enumerator
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.Contains(System.Char)">
+            <summary>
+            If contain the specified char
+            </summary>
+            <param name="x">The character</param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.Contains(Lsj.Util.Text.VariableString)">
+            <summary>
+            If contain the specified string
+            </summary>
+            <param name="x">The string</param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.Substring(System.Int32)">
+            <summary>
+            Substring
+            </summary>
+            <param name="startIndex">Start index</param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.Substring(System.Int32,System.Int32)">
+            <summary>
+            Substring
+            </summary>
+            <param name="startIndex">Start index</param>
+            <param name="length">Length</param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.op_Addition(Lsj.Util.Text.VariableString,Lsj.Util.Text.VariableString)">
+            <summary>
+            Concat
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.op_Equality(Lsj.Util.Text.VariableString,Lsj.Util.Text.VariableString)">
+            <summary>
+            Equals
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.op_Inequality(Lsj.Util.Text.VariableString,Lsj.Util.Text.VariableString)">
+            <summary>
+            NotEquals
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Text.VariableString.GetHashCode">
+            <summary>
+            Get Hashcode
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Threading.ReadWriteLock">
+            <summary>
+            ReadWriteLock
+            using ReaderWriterLockSlim
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Threading.ReadWriteLock.EnterRead">
+            <summary>
+            Enter Read
+            use dispose to close
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Threading.ReadWriteLock.EnterUpgradeableRead">
+            <summary>
+            Enter UpgradeableRead
+            use dispose to close
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Threading.ReadWriteLock.EnterWrite">
+            <summary>
+            Enter Write
+            use dispose to close
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.Threading.ReadWriteLock.ReadLockObject">
+            <summary>
+            ReadLock Object
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Threading.ReadWriteLock.ReadLockObject.Dispose">
+            <summary>
+            Exit Lock
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Threading.ReadWriteLock.WriteLockObject">
+            <summary>
+            WriteLock Object
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Threading.ReadWriteLock.WriteLockObject.Dispose">
+            <summary>
+            Exit Lock
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.Threading.ReadWriteLock.UpgradeableReadLockObject">
+            <summary>
+            UpgradeableReadLock Object
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Threading.ReadWriteLock.UpgradeableReadLockObject.Upgrade">
+            <summary>
+            Upgrade Lock to WriteLock
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Threading.ReadWriteLock.UpgradeableReadLockObject.Dispose">
+            <summary>
+            Exit Lock
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Threading.ReadWriteLock.CleanUpManagedResources">
+            <summary>
+            Clean Up Managed Resources
+            </summary>
+        </member>
+        <member name="T:Lsj.Util.TrueRandom">
+            <summary>
+            True Random
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.TrueRandom.#ctor">
+            <summary>
+            Initialize
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.TrueRandom.CleanUpManagedResources">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.TrueRandom.NextInt">
+            <summary>
+            Get Next Int Value
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:Lsj.Util.UnsafeHelper">
+            <summary>
+            UnsafeHelper
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Contact(System.Byte[],System.Byte[])">
+            <summary>
+            Contact
+            </summary>
+            <param name="src1"></param>
+            <param name="src2"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Byte[],System.Void*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Byte[],System.Byte[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Byte[],System.Int64,System.Byte[],System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Byte*,System.Byte[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Byte[],System.Byte*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Byte*,System.Int64,System.Byte*,System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Byte*,System.Byte*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int16[],System.Int16[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int16[],System.Int64,System.Int16[],System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int16*,System.Int16[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int16[],System.Int16*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int16*,System.Int64,System.Int16*,System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int16*,System.Int16*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Char[],System.Char[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Char[],System.Int64,System.Char[],System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Char*,System.Char[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Char[],System.Char*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Char*,System.Int64,System.Char*,System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Char*,System.Char*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int32[],System.Int32[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int32[],System.Int64,System.Int32[],System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int32*,System.Int32[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int32[],System.Int32*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int32*,System.Int64,System.Int32*,System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int32*,System.Int32*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int64[],System.Int64[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int64[],System.Int64,System.Int64[],System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int64*,System.Int64[],System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int64[],System.Int64*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int64*,System.Int64,System.Int64*,System.Int64,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="srcoffset"></param>
+            <param name="dst"></param>
+            <param name="dstoffset"></param>
+            <param name="length"></param>
+        </member>
+        <member name="M:Lsj.Util.UnsafeHelper.Copy(System.Int64*,System.Int64*,System.Int64)">
+            <summary>
+            Copy
+            </summary>
+            <param name="src"></param>
+            <param name="dst"></param>
+            <param name="length"></param>
+        </member>
+        <member name="T:Lsj.Util.Version">
+            <summary>
+            Version
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Version.Major">
+            <summary>
+            Major
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Version.Minor">
+            <summary>
+            Minor
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Version.Build">
+            <summary>
+            Build
+            </summary>
+        </member>
+        <member name="P:Lsj.Util.Version.Revision">
+            <summary>
+            Revision
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Version.#ctor(System.Int32)">
+            <summary>
+            Initialize a new instance of <see cref="T:Lsj.Util.Version"/> struct
+            </summary>
+            <param name="major">Major</param>
+        </member>
+        <member name="M:Lsj.Util.Version.#ctor(System.Int32,System.Int32)">
+            <summary>
+            Initialize a new instance of <see cref="T:Lsj.Util.Version"/> struct
+            </summary>
+            <param name="major">Major</param>
+            <param name="minor">Minor</param>
+        </member>
+        <member name="M:Lsj.Util.Version.#ctor(System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Initialize a new instance of <see cref="T:Lsj.Util.Version"/> struct
+            </summary>
+            <param name="major">Major</param>
+            <param name="minor">Minor</param>
+            <param name="build">Build</param>
+        </member>
+        <member name="M:Lsj.Util.Version.#ctor(System.Int32,System.Int32,System.Int32,System.Int32)">
+            <summary>
+            Initialize a new instance of <see cref="T:Lsj.Util.Version"/> struct
+            </summary>
+            <param name="major">Major</param>
+            <param name="minor">Minor</param>
+            <param name="build">Build</param>
+            <param name="revision">Revision</param>
+        </member>
+        <member name="M:Lsj.Util.Version.ToString">
+            <summary>
+            Convert To String
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Version.ToString(System.Int32)">
+            <summary>
+            Convert To String
+            </summary>
+            <returns></returns>
+            <param name="length">Length</param>
+        </member>
+        <member name="M:Lsj.Util.Version.Equals(System.Object)">
+            <summary>
+            Equals
+            </summary>
+            <param name="obj"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Version.op_Equality(Lsj.Util.Version,Lsj.Util.Version)">
+            <summary>
+            Equals
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Version.op_Inequality(Lsj.Util.Version,Lsj.Util.Version)">
+            <summary>
+            Not Equals
+            </summary>
+            <param name="a"></param>
+            <param name="b"></param>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Version.GetHashCode">
+            <summary>
+            Get HashCode
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:Lsj.Util.Version.op_Implicit(Lsj.Util.Version)~System.Version">
+            <summary>
+            
+            </summary>
+            <param name="version"></param>
+        </member>
+        <member name="M:Lsj.Util.Version.op_Implicit(System.Version)~Lsj.Util.Version">
+            <summary>
+            
+            </summary>
+            <param name="version"></param>
+        </member>
+        <member name="T:Lsj.Util.Xml.XmlFile">
+            <summary>
+            XML File
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Xml.XmlFile.#ctor(System.String)">
+            <summary>
+            Initialize a new instance of <see cref="T:Lsj.Util.Xml.XmlFile"/> class with a path
+            </summary>
+            <param name="path"></param>
+        </member>
+        <member name="F:Lsj.Util.Xml.XmlFile.m_Document">
+            <summary>
+            The Document
+            </summary>
+        </member>
+        <member name="M:Lsj.Util.Xml.XmlFile.Refresh">
+            <summary>
+            Refresh
+            </summary>
+        </member>
+        <member name="T:System.Span`1">
+            <summary>
+            A poor Span implementation just for .net 4.0 compatible.
+            </summary>
+            <typeparam name="T"></typeparam>
+        </member>
+        <member name="P:System.Span`1.Item(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="index"></param>
+            <returns></returns>
+        </member>
+        <member name="P:System.Span`1.Length">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.Span`1.#ctor(`0[])">
+            <summary>
+            
+            </summary>
+            <param name="array"></param>
+        </member>
+        <member name="M:System.Span`1.#ctor(`0[],System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="array"></param>
+            <param name="start"></param>
+            <param name="length"></param>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+        </member>
+        <member name="M:System.Span`1.Slice(System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="start"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+        </member>
+        <member name="M:System.Span`1.Slice(System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <param name="start"></param>
+            <param name="length"></param>
+            <returns></returns>
+            <exception cref="T:System.ArgumentOutOfRangeException"></exception>
+        </member>
+        <member name="M:System.Span`1.ToArray">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:System.Span`1.GetPinnableReference">
+            <summary>
+            
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="T:System.MemoryExtensions">
+            <summary>
+            
+            </summary>
+        </member>
+        <member name="M:System.MemoryExtensions.AsSpan``1(``0[],System.Int32,System.Int32)">
+            <summary>
+            
+            </summary>
+            <typeparam name="T"></typeparam>
+            <param name="array"></param>
+            <param name="start"></param>
+            <param name="length"></param>
+            <returns></returns>
+        </member>
+    </members>
+</doc>
