@@ -7,4 +7,4 @@
  *.dll avec des images. (Programme fait en Visual C# dans Visual Studio Community 2019 (Maintenant 2022)!)). Des fautes d'orthographes sont trouvables (surtout dans les premières versions, et dans le formulaire "Journal des 
  mises à jour").
 
-# Pour télécharger toutes les versions, allez dans "Code > Download ZIP" et profitez de toutes les versions!
+# Pour [télécharger toutes les versions](https://codeload.github.com/LlFPrograms/TLFDADIDW/zip/refs/heads/main?token=AV53AHLJ7EP4KRP34VJLEF3B7ZVYI), allez dans "Code > Download ZIP" et profitez de toutes les versions!
