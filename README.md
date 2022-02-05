@@ -4,7 +4,7 @@
 # [Téléchargez l'application](https://raw.githubusercontent.com/LlFPrograms/TLFDADIDW/main/TE/V3.5.7.zip?token=GHSAT0AAAAAABRCLZ5VAIFF2PAXRFTE74FMYP6NICA) pour plus d'informations sur les mises à jour!
  
  Dans ce programme vous trouverez tous les fichiers *.dll avec des images dans Windows (Par défaut car je ne trouve pas de façon de lire dans l'ordinateur des fichiers
- *.dll avec des images. (Programme fait en Visual C# dans [![Visual Studio 2019](https://github.com/LlFPrograms/vs2019_Icon/blob/main/vs2019_32x24.png)](https://visualstudio.microsoft.com/fr/vs/older-downloads/) (Maintenant 2022)!)). Des fautes d'orthographes sont trouvables (surtout dans les premières versions, et dans le formulaire "Journal des 
+ *.dll avec des images. (Programme fait en Visual C# dans Visual Studio 2019[![Visual Studio 2019](https://github.com/LlFPrograms/vs2019_Icon/blob/main/vs2019_32x24.png)](https://visualstudio.microsoft.com/fr/vs/older-downloads/) (Maintenant 2022)!)). Des fautes d'orthographes sont trouvables (surtout dans les premières versions, et dans le formulaire "Journal des 
  mises à jour").
 
 # Pour [télécharger toutes les versions](https://codeload.github.com/LlFPrograms/TLFDADIDW/zip/refs/heads/main?token=AV53AHLJ7EP4KRP34VJLEF3B7ZVYI), allez dans "Code > Download ZIP" et profitez de toutes les versions!
