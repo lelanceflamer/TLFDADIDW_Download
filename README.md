@@ -1,7 +1,7 @@
 # ---Je vais être inactif pendant un petit moment sur mes applications car je crée un site Internet.--- 
  
  NOUVELLE VERSION: TE/3.6.4 - Nouveautées:
-    1 Nouveau paramètre: Dans le formulaire DLL, vous pouvez maintenant [readmore...](https://github.com/LlFPrograms/TLFDADIDW/releases/download/v3.6.4/TLFDADIDW_TE_Setup.exe).
+    1 Nouveau paramètre: Dans le formulaire DLL, vous pouvez maintenant [read more...](https://github.com/LlFPrograms/TLFDADIDW/releases/download/v3.6.4/TLFDADIDW_TE_Setup.exe).
     Ajout d'une option dans le formulaire DLL, [installez l'applicatin](https://github.com/LlFPrograms/TLFDADIDW/releases/download/v3.6.4/TLFDADIDW_TE_Setup.exe)!
     
 # [Téléchargez l'application](https://raw.githubusercontent.com/LlFPrograms/TLFDADIDW/main/TE/V3.5.7.zip?token=GHSAT0AAAAAABRCLZ5VAIFF2PAXRFTE74FMYP6NICA) pour plus d'informations sur les mises à jour!
