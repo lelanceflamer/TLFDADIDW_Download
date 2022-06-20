@@ -13,9 +13,10 @@ La version 3.7.4 inclus qu'une seule mise à jour et une seule correction de bug
     - (Uniquement si vous faites une multi-sélection sur des icônes d'un fichier *.dll et que vous avez cliqué sur le bouton du menu contextuel d'une icône d'un fichier *.dll): la dernière icône sélectionné ne se sauvegarde pas automatiquement et c'est très embêtant.
     - Le formulaire *.dll a l'option d'ouvrir un fichier *.ico ne fonctionne pas et j'espère que ce sera vite trouvé l'origine de ce bug (je verrai s’il n'y aurait pas un problème de comptabilité).
     - Peut-être d'autres bugs si j'en trouve pendant la correction et l'ajout des paramètres.
-    
+    - Le chemin du fichier *.dll ne s'affiche pas dans la barre de titre du formulaire *.dll.
+
 ### Les fautes des frappes qui seront supprimés :
-    - Lorsque vous sauvegardez plusieurs icônes dans le formulaire Dll, la description du « FileBrowserDialog » (le texte qui s'affiche au-dessus de l'arborescence) est « Enregistrer plusieurs images sous un repertoire... » parce que j'ai tendance à prononcer repertoire et non pas répertoire.
+    - Lorsque vous sauvegardez plusieurs icônes dans le formulaire Dll, la description du «FileBrowserDialog» (le texte qui s'affiche au-dessus de l'arborescence) est «Enregistrer plusieurs images sous un repertoire...» parce que j'ai tendance à prononcer repertoire et non pas répertoire.
 
     
 # [Téléchargez l'application](https://raw.githubusercontent.com/LlFPrograms/TLFDADIDW/main/TE/V3.5.7.zip?token=GHSAT0AAAAAABRCLZ5VAIFF2PAXRFTE74FMYP6NICA) pour plus d'informations sur les mises à jour!
