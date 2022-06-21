@@ -1,4 +1,4 @@
-# NOUVELLE VERSION: TE/3.7.4 - Nouveautées:
+# NOUVELLE VERSION: TE/3.7.4 - Nouveautés:
 
 La version 3.7.4 inclus qu'une seule mise à jour et une seule correction de bug : la mise à jour est que l'application est maintenant capable d'enregistrer des images depuis des fichiers *.dll (prochainement (peut-être prochaine version) il sera possible de se créer des fichiers *.dll). La correction de bug est le paramètre pour cacher toutes les icônes du menu des boutons : l'icône du formulaire *.dll ne se s'enlevait pas du menu donc ça faisait un peu étrange dans un menu sans icônes et en plus le pire c'est que je ne m'en suis pas rendu compte de ce bug.
 
